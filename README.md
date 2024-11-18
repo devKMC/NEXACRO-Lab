@@ -32,4 +32,5 @@ https://docs.tobesoft.com/nexacro_17_ko
 - data binding 
 
 클릭 핸들러
-- on
+- onclick 핸들러 사용하여 고객리스트 반환
+- ![고객 목록 검색](public/Customer_list_search.png)
