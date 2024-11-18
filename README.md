@@ -19,4 +19,17 @@
 - http://localhost:8080 으로 톰캣 실행 확인하기
 - Generath Path 지정
 
-# NRE(Nexacro Runtime Environment)에서 앱 실행하기
+# 실습하기
+https://docs.tobesoft.com/nexacro_17_ko
+
+# 데이타셋 생성 및 조작
+
+폼 작성
+- database Editor
+- 레코드 생성: ctrl + 1 (head) / ctrl + 2 (body)
+- 컬럼 생성: ctrl + 8
+- 병합 하기: ctrl + m
+- data binding 
+
+클릭 핸들러
+- on
